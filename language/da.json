@@ -9,7 +9,7 @@
       "fields":[
         {
           "label":"Record answer button text",
-          "default":"Record Answer"
+          "default":"Optag svar"
         },
         {
           "label":"Pause button text",
@@ -17,7 +17,7 @@
         },
         {
           "label":"Continue button text",
-          "default":"Continue"
+          "default":"Fortsæt"
         },
         {
           "label":"Download button text",
@@ -25,60 +25,60 @@
         },
         {
           "label":"Finish button text",
-          "default":"Finish"
+          "default":"Færdig"
         },
         {
           "label":"Retry button text",
-          "default":"Retry"
+          "default":"Prøv igen"
         },
         {
           "label":"Microphone not supported error message",
-          "default":"Microphone not supported. Make sure you are using a browser that allows microphone recording."
+          "default":"Mikrofonen er ikke supporteret. Er du sikker på, at din browser understøtter mikrofonoptagelser?"
         },
         {
           "label":"Microphone inaccessible error message",
-          "default":"Microphone is not accessible. Make sure that the browser microphone is enabled."
+          "default":"Mikrofon er ikke tilgængelig. Sikre dig at browseren tillader brug af mikrofon."
         },
         {
           "label": "Message displayed when insecure access is not allowed",
           "description": "Some browsers do not allow using the microphone when the page is served using HTTP. This message will be displayed if that is the case",
-          "default": "Access to microphone is not allowed in your browser since this page is not served using HTTPS. Please contact the author, and ask him to make this available using HTTPS"
+          "default": "Adgang til mikrofonen tillades ikke af din browser, fordi siden ikke tilgåes via HTTPS. Kontakt venligst forfatteren, og bed om at få siden gjort tilgængelig via HTTPS"
         },
         {
           "label":"Ready to record status message",
-          "default":"Press a button below to record your answer."
+          "default":"Tryk på en knap herunder for at optage dit svar."
         },
         {
           "label":"Recording status message",
-          "default":"Recording..."
+          "default":"Optager..."
         },
         {
           "label":"Paused status message",
-          "default":"Recording paused. Press a button to continue recording."
+          "default":"Optagelse på pause. Tryk på en knap for at fortsætte optagelsen."
         },
         {
           "label":"Finished recording status message",
-          "default":"You have successfully recorded your answer! Listen to the recording below."
+          "default":"Dit svar er blevet optaget! Lyt til optagelsen herunder."
         },
         {
           "label":"Download recording message",
-          "default":"Download this recording or retry."
+          "default":"Download denne optagelse eller prøv igen."
         },
         {
           "label":"Retry dialog header text",
-          "default":"Retry recording"
+          "default":"Forsøg optagelse igen"
         },
         {
           "label":"Retry dialog body text",
-          "default":"You will lose your current recording. Do you wish to continue?"
+          "default":"Du vil miste din nuværende optagelse. Ønsker du at fortsætte?"
         },
         {
           "label":"Retry dialog confirm text",
-          "default":"Retry"
+          "default":"Prøv igen"
         },
         {
           "label":"Retry dialog cancel text",
-          "default":"Cancel"
+          "default":"Annuller"
         }
       ]
     }
